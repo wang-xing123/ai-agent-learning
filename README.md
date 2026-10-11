@@ -2,6 +2,27 @@
 
 《深入理解 AI Agent》学习记录 —— 边读边跑实验，把书里的结论用自己的实测数据核对一遍。
 
+## 📖 出处与致谢
+
+本仓库是我的**个人学习笔记**，内容基于下面这本书：
+
+| | |
+| --- | --- |
+| 书名 | **《深入理解 AI Agent》** |
+| 作者 | **Bojie Li（李博杰）** |
+| 原书仓库 | https://github.com/bojieli/ai-agent-book |
+| 在线阅读 | https://bojieli.github.io/ai-agent-book/ |
+| 开源许可 | [Apache License 2.0](https://github.com/bojieli/ai-agent-book/blob/main/LICENSE) |
+
+**几点说明**：
+
+- 笔记中的**书中原文**均以 `>` 引用块明确标出，**版权归原作者所有**；其余部分是我的批注、实测数据与思考。
+- 本仓库是**非官方**的个人学习记录，与原作者无隶属关系，不代表原作者观点。
+- 原书以 **Apache-2.0** 许可发布，本笔记对书中内容的引用遵循该许可的署名要求。
+- 若原作者认为本仓库有不妥之处，请联系我，我会立即调整或删除。
+
+> 如果这些笔记对你有帮助，**更建议直接去读原书**：[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) ⭐
+
 ## 目录
 
 - [第 1 章 · 学习记录](chapter1学习笔记.md)
